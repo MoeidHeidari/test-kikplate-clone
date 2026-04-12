@@ -1,0 +1,7 @@
+name: My Starter
+owner: myorg
+description: Short summary
+category: yyyyy
+tags:
+  - golang
+  - docker
