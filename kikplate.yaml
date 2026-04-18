@@ -1,8 +1,8 @@
 name: My Starter
-owner: myorg
+owner: MoeidHeidari
 description: Short summary
 verification_token: 2d32d371-cbce-45c7-aaf1-88d9f2165a94
-category: yyyyy
+category: backend
 tags:
   - golang
   - docker
